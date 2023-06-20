@@ -7,3 +7,4 @@ Adding all the problems solved in Leetcode in Python
 242 Valid Anagram - https://leetcode.com/problems/valid-anagram/ 
 1 Two Sum - https://leetcode.com/problems/two-sum/ 
 125 Valid Plaindrome - https://leetcode.com/problems/valid-palindrome/
+20 Valid Parenthesis - https://leetcode.com/problems/valid-parentheses/
